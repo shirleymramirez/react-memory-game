@@ -1,0 +1,17 @@
+.navbar-default {
+    height: 50px;
+    background-color: purple;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: white !important;
+}
+
+.topScoreNavItem,
+.runningScoreNavItem {
+    display: inline-block;
+    font-size: 30px;
+    color: white !important;
+}

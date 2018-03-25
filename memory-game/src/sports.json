@@ -1,41 +1,61 @@
 [{
         "id": 1,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png",
+        "name": "basketball"
     },
     {
         "id": 2,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/A_worn-out_baseball.JPG"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/A_worn-out_baseball.JPG",
+        "name": "baseball"
     },
     {
         "id": 3,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Football_Pallo_valmiina-cropped.jpg",
+        "name": "soccer"
     },
     {
         "id": 4,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Heads_of_badminton_raquets.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Heads_of_badminton_raquets.jpg",
+        "name": "badminton"
     },
     {
         "id": 5,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+        "name": "chess"
     },
     {
         "id": 6,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depart4x100.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depart4x100.jpg",
+        "name": "swimming"
     },
     {
         "id": 7,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Football_cross.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Football_cross.jpg",
+        "name": "football"
     },
     {
         "id": 8,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/JJS_Dojo.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/JJS_Dojo.jpg",
+        "name": "karate"
     },
     {
         "id": 9,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Boxing_Tournament_in_Aid_of_King_George%27s_Fund_For_Sailors_at_the_Royal_Naval_Air_Station%2C_Henstridge%2C_Somerset%2C_July_1945_A29806.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Boxing_Tournament_in_Aid_of_King_George%27s_Fund_For_Sailors_at_the_Royal_Naval_Air_Station%2C_Henstridge%2C_Somerset%2C_July_1945_A29806.jpg",
+        "name": "boxing"
     },
     {
         "id": 10,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/HOCKEY_ARGENTINA_PAKISTAN.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/HOCKEY_ARGENTINA_PAKISTAN.jpg",
+        "name": "hockey"
+    },
+    {
+        "id": 11,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/ArcheryGermanyEarly1980s-2.jpg",
+        "name": "archery"
+    },
+    {
+        "id": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/GreatFallsKayaker2.jpg",
+        "name": "kayaking"
     }
 ]

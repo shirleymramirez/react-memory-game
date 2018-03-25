@@ -6,7 +6,7 @@ const SportCard = props => (
         <div className = "img-container">
             <img alt = {props.name} src={props.image}/>
         </div>
-    </div>
+    </div> 
 );
 
 export default SportCard;

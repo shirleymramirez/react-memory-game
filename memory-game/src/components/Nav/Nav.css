@@ -1,5 +1,5 @@
 .navbar-default {
-    height: 50px;
+    height: 75px;
     background-color: purple;
     margin-bottom: 0;
 }
@@ -9,9 +9,12 @@
     color: white !important;
 }
 
-.topScoreNavItem,
-.runningScoreNavItem {
-    display: inline-block;
-    font-size: 30px;
+.navbar-default,
+.navbar-nav>li>a {
+    font-size: 22px;
     color: white !important;
+}
+
+.navbar-nav {
+    float: none;
 }

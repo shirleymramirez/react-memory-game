@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar, Nav, NavItem } from "react-bootstrap";
 import "./Nav.css";
 
-const MyNav = () =>
+const MyNav = props =>
   <Navbar>
     <Navbar.Header>
       <Navbar.Brand>
@@ -11,16 +11,18 @@ const MyNav = () =>
     </Navbar.Header>
     <Nav>
       <NavItem eventKey={1} href="#" className="instructionNavItem">
-        Click an Image to Begin
+        {props.message}
       </NavItem>
       <Nav pullRight>
         <NavItem eventKey={2} href="#">
-          Score:
+          Score: {props.score}
         </NavItem>
         <NavItem eventKey={3} href="#">
-          Top Score:
+          Top Score: {props.topScore}
         </NavItem>
       </Nav>
     </Nav>
   </Navbar>;
+
+
 export default MyNav;

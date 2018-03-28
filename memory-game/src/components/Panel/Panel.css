@@ -1,4 +1,7 @@
-Panel.Footer {
+.panel-footer {
     height: 75px;
+    color: white;
+    font-size: 20px;
     background-color: purple;
+    padding-top: 20px;
 }

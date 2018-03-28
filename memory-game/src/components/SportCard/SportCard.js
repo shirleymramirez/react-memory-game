@@ -1,15 +1,10 @@
 import React from "react";
 import "./SportCard.css";
 
-const SportCard = props => 
-  <div className="card">
+const SportCard = props =>
+  <div className="card" onClick={props.handleImageClick}>
     <div className="img-container">
-      <img
-        alt={props.name}
-        id={props.id}
-        src={props.image}
-        onClick={props.onClick}
-      />
+      <img alt={props.name} id={props.id} src={props.image} />
     </div>
-  </div>
+  </div>;
 export default SportCard;
